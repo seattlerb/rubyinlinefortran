@@ -1,5 +1,4 @@
-Inline::Fortran
-    by Ryan Davis
+Inline::Fortran by Ryan Davis
     http://www.rubyforge.org/projects/rubyinline
 
 == DESCRIPTION:

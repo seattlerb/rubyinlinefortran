@@ -2,5 +2,5 @@ History.txt
 Manifest.txt
 README.txt
 Rakefile
-demo/demo/hello.rb
+demo/hello.rb
 lib/inline/fortran.rb
