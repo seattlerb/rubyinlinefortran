@@ -9,7 +9,7 @@ Just because we can... Inline::Fortran.
   
 * Very rudimentary right now. Needs some love.
 
-== SYNOPSYS:
+== SYNOPSIS:
 
     inline :Fortran do |builder|
       builder.subroutine('print_integer', ["void", "int"], <<-END)
